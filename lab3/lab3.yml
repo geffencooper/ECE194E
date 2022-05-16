@@ -1,0 +1,15 @@
+name: lab3
+dependencies:
+  - python=3.8.5
+  - pip=21.0.1
+  - pip:
+    - ipython==7.20.0
+    - ipywidgets==7.6.3
+    - jupyter==1.0.0
+    - jupyter-client==6.1.7
+    - jupyter-console==6.2.0
+    - jupyter-core==4.7.1
+    - matplotlib==3.3.4
+    - numpy==1.19.2
+    - Pillow==8.1.0
+    - scipy==1.6.3
