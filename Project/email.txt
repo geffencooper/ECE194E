@@ -1,0 +1,49 @@
+Hi all,
+
+Hope that you are well. Given the recent potential Covid-19 exposure in class, we will have the office hour on Monday over zoom since my office is quite small. We will still hold the class in person at 3:30 but I think it would be good to wear masks. Here is the zoom link for the office hour at 11 AM on Monday: 
+
+https://ucsb.zoom.us/j/88570252738?pwd=Rk44a09vYktzdWFVTE5UazBhZ3BmUT09
+
+Best,
+
+Ramtin.
+
+Hi all,
+
+Since there were a few requests to extend the HW deadline, you can now submit it by Tuesday 11:59 PM. This deadline will not be extended.
+
+Best,
+
+Ramtin.
+
+Hi all,
+
+I feel a bit under the weather. We will not have a class today; we will continue on Wednesday where I will review some materials for midterm and then move to Markov Decision Processes. Please note that the midterm is on Monday 5/23 in class. It covers the first 3 HWs and material in lecture notes up to and excluding Hidden Markov Models.
+
+Best,
+
+Ramtin.
+
+Hi all,
+
+Note that you can use the notes for the midterm exam on Monday. You can bring your laptop but you are only allowed to use the material on Gauchospace.
+
+Best,
+
+Ramtin.
+
+Hi all,
+
+I will be attending a conference out of town next week. We will not have an office hour on Monday and Mark is going to administer the exam. We are going to have a lecture on Wednesday taught by Mark on Q Learning. I am available to answer questions over email if needed. We will have office hours on Tuesday 31st at 11 the following week since Monday 30th is a holiday. 
+
+Best,
+
+Ramtin.
+
+Hi all,
+
+Since Monday is a holiday, we are going to have the last office hour on Tuesday at 9:45-10:45 AM. The final project report is due Wednesday June 8th 11:59 PM. As you know, there can be two types of projects: 1) implementing ML algorithm(s) learned in the class on a real data set you find online and do comparisons, conclusions, show plots, and share your code together with a 3-4 page report. This can be at the level of labs 2-4 so basically design a new lab with report; 2) read and study a related machine learning research paper and write a summary in a report or survey paper discussing the algorithm, results, strengths and weaknesses. 
+
+Best,
+
+Ramtin.
